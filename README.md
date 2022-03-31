@@ -26,15 +26,6 @@ Click [here](https://desolate-eyrie-52631.herokuapp.com/) to view the deployed s
 
 Unified is the One-stop-shop where students can find career development opportunities, engage with each other, and make environmentally and financially sustainable choices.
 
-## Contributors
-
-- [Sumaia Sorna](https://github.com/SumaiaSorna)
-- [Kayle Rieger Patton](https://github.com/kayleriegerpatton)
-- [Conor Kelly](https://github.com/conorjkelly96)
-- [Liana Laurentiu](https://github.com/lianavaleria15)
-- [Matt Palmer](https://github.com/tigerbath)
-- [Yashemabeth Mcleod](https://github.com/Yashemabeth)
-
 ## Technologies Used
 
  Front End
@@ -52,13 +43,24 @@ Back End
 - Mongoose & MongoDB
 - JSONWebToken
 
+## Contributors
+
+- [Sumaia Sorna](https://github.com/SumaiaSorna)
+- [Kayle Rieger Patton](https://github.com/kayleriegerpatton)
+- [Conor Kelly](https://github.com/conorjkelly96)
+- [Liana Laurentiu](https://github.com/lianavaleria15)
+- [Matt Palmer](https://github.com/tigerbath)
+- [Yashemabeth Mcleod](https://github.com/Yashemabeth)
+
+
+
 # Screenshots
 
 Logo
 
 <img src="./images/unifiedlogo.png">
 
-## Deployed app screenshots
+Deployed app screenshots
 
 <img src="./images/deployed-app.png">
 <img src="./images/jobs-page.png">
